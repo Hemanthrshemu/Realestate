@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Royal Residency",
+      "price": "47,043",
+      "detail": " Joyous Residence: Represents a home filled with happiness.",
+      "image": "../imgs/r1.png"
+    },
+    {
+      "name": "Premalaya Villa",
+      "price": "66,353",
+      "detail": "Abode of Love: Embraces love and affection within the household.",
+      "image": "../imgs/r2.png"
+    },
+    {
+      "name": "Vasudha Haven",
+      "price": "35,853",
+      "detail": "Earthly Sanctuary: Symbolizes a grounded and nurturing home.",
+      "image": "../imgs/r3.png"
+    },
+    {
+      "name":" Antariksha Retreat",
+      "price": "47,043",
+      "detail": "Space Retreat: Embodies a home that offers peace and freedom.",
+      "image": "../imgs/r1.png"
+    },
+    {
+      "name": "Prakriti Residency",
+      "price": "66,353",
+      "detail": "Abode of Strength: Reflects a house built on resilience and fortitude.",
+      "image": "../imgs/r2.png"
+    },
+    {
+      "name": "Prakriti Residency",
+      "price": "35,853",
+      "detail": "Residence of Nature: Represents a home deeply connected to nature.",
+      "image": "../imgs/r3.png"
+    }
+  ]

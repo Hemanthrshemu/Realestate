@@ -1,0 +1,25 @@
+.h-wrapper {
+    z-index: 99;
+    position: sticky;
+    top: 0;
+}
+
+.h-container{
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: aliceblue;
+}
+
+
+.h-menu{
+    gap:2rem;
+}
+.h-menu:hover{
+    color:rgb(246, 180, 57);
+    transition: all 500ms ease-in;
+}
+
+.h-menu>*:hover{
+    cursor: pointer;
+}
